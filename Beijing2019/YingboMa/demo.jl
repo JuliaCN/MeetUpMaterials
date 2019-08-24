@@ -7,7 +7,8 @@ rober = @ode_def Rober begin
   dy₃ =  k₂*y₂^2
 end k₁ k₂ k₃
 prob = ODEProblem(rober,[1.0;0.0;0.0],(0.0,1e11),(0.04,3e7,1e4))
-plot(sol, xscale=:log11, tspan=(1e-6, 1e5), layout=(3,1))
+sol = solve(prob, Rosenbrock23())
+plot(sol, xscale=:log10, tspan=(1e-6, 1e5), layout=(3,1))
 
 #######################################
 #######################################
