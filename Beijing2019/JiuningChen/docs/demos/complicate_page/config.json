@@ -1,0 +1,7 @@
+{
+    "template": "gallery_of_packages.md",
+    "order": [
+        "uses",
+        "used_by"
+    ]
+}
