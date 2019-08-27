@@ -37,6 +37,7 @@ function move(state, self, target)
     #addsample(e)
     e_int = state[:e_int]
     e_last = state[:e_last]
+    # You may need to adjust these parameters
     Kp = 5.5
     Ki = 0.25
     Kd = 2.7
