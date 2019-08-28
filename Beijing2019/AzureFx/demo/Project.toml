@@ -1,0 +1,4 @@
+[deps]
+ProtoBuf = "3349acd9-ac6a-5e09-bcdb-63829b23a429"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+V5RPC = "15064653-d897-498e-b089-9874cd08bf10"
