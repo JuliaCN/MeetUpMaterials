@@ -5,6 +5,7 @@
 * Tropical tensor networks for solving spin glasses (用Tropical张量网络求解自旋玻璃问题) [pdf课件下载](https://raw.githubusercontent.com/JuliaCN/MeetUpMaterials/master/Online2020/Tropical-JuliaCN.pdf)
 * ReinforcementLearning.jl - Design, implementation and thoughts (ReinforcementLearning.jl - 设计，实现和思考) [ppt课件下载](https://raw.githubusercontent.com/JuliaCN/MeetUpMaterials/master/Online2020/ReinforcementLearning.jl.pptx)
 * Data Wrangling Techniques in Julia [Slide](https://docs.google.com/presentation/d/e/2PACX-1vRWgoWOJ8UaVImkY4YSJLX43MiR4ysl_39diR3x-2TnRF0-gMQZS2HFmk9kNAg35QuF0ZjzheYuxwEw/pub?start=false&loop=false&delayms=3000&slide=id.g91d9fb9dd3_0_3), [Source code for live demo](https://github.com/tk3369/data-wrangling-techniques-in-juia)
+* [Turing.jl -- 从贝叶斯推断到概率编程](https://github.com/xukai92/juliacn-2020)
 
 ## 视频
 https://space.bilibili.com/356692611
