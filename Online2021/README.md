@@ -1,5 +1,6 @@
 # Julia 2021 冬季会议
 
-## 幻灯片和相关材料
-
-* Fractional Order Computing with Julia([FractionalCalculus.jl](https://github.com/SciFracX/FractionalCalculus.jl), [FractionalDiffEq.jl](https://github.com/SciFracX/FractionalDiffEq.jl)利用Julia进行分数阶科学计算), [slide](https://julia-cn-conf2021.vercel.app/1), [PDF课件下载](https://raw.githubusercontent.com/JuliaCN/MeetUpMaterials/master/Online2021/JuliaCN-SciFracX.pdf)
+|演讲| 演讲者 | 视频 | 其它材料|
+|:---|:------|:----|:------|
+| Fractional Order Computing with Julia | [曲庆宇](https://github.com/ErikQQY) | TODO | [FractionalCalculus.jl](https://github.com/SciFracX/FractionalCalculus.jl), [FractionalDiffEq.jl](https://github.com/SciFracX/FractionalDiffEq.jl), [slide](https://julia-cn-conf2021.vercel.app/1), [PDF](https://raw.githubusercontent.com/JuliaCN/MeetUpMaterials/master/Online2021/JuliaCN-SciFracX.pdf) |
+| A Deep Dive into Distributed.jl | [田俊](https://github.com/findmyway) || [Slide](https://juntian.me/programming/A_Deep_Dive_into_Distributed.jl/slide/index.html), [Blog](https://juntian.me/programming/A_Deep_Dive_into_Distributed.jl/) |
