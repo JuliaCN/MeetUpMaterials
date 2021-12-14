@@ -8,7 +8,7 @@
 | Julia机器学习入门教程 | 胡晓曼 | TODO | TODO |
 | 以并行和GPU更快一步 | 郭昊轩 | TODO | TODO |
 | AlphaZero算法介绍以及AlphaZero.jl使用 | 谦谦君子 | TODO | TODO |
-| 基于可逆计算的稀疏矩阵微分 | 黎婕 | TODO | TODO |
+| 基于可逆计算的稀疏矩阵微分 | [黎婕](https://github.com/jieli-matrix) | TODO | [Blog](https://jieli-matrix.github.io/SparseAD/), [Slide](https://raw.githubusercontent.com/JuliaCN/MeetUpMaterials/master/Online2021/JuliaCN_SparseAD.slides.html) |
 | 在Julia中轻松调用C接口 | 曾富楠 | TODO | TODO |
 | 使用Julia实现前沿强化学习算法——基于ReinforcementLearning.jl | 杨国钰 | TODO | TODO |
 | Julia 代码中的典型设计模式 | [陈久宁](https://github.com/johnnychen94) | TODO | TODO |
