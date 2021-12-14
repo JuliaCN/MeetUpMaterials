@@ -4,7 +4,7 @@
 |:---|:------|:----|:------|
 | 用 Julia 实现非公理化推理系统 | [孙常新](https://github.com/AIxer) | TODO | [PPT](day1_sun_junars.pptx) |
 | Julia 社区、包注册以及镜像介绍 | [陈久宁](https://github.com/johnnychen94) | TODO | [PPT](day1_chen_pkg_protocol.pdf) |
-| WordCloud.jl - 用julia生成漂亮的词云 | 郭勇智 | TODO | [PPT](day1_guo_wordcloud.pdf) |
+| WordCloud.jl - 用julia生成漂亮的词云 | [郭勇智](https://github.com/guo-yong-zhi) | TODO | [PPT](day1_guo_wordcloud.pdf) |
 | Julia机器学习入门教程 | [胡晓曼](https://github.com/huxiaoman7) | TODO | TODO |
 | 以并行和GPU更快一步 | 郭昊轩 | TODO | [jupyter](day2_guo_threads_and_gpu.ipynb) |
 | AlphaZero算法介绍以及AlphaZero.jl使用 | [谦谦君子](https://github.com/magicly) | TODO | [markdown](https://github.com/magicly/juliacn-2021-alphazero-share) |
