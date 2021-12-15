@@ -15,7 +15,7 @@
 | 深入理解 Distributed.jl | [田俊](https://github.com/findmyway) || [Slide](https://juntian.me/programming/A_Deep_Dive_into_Distributed.jl/slide/index.html), [Blog](https://juntian.me/programming/A_Deep_Dive_into_Distributed.jl/) |
 | 基于 Turing.jl 的概率编程实践 | [徐锴](https://github.com/xukai92) | TODO | [repo](https://github.com/xukai92/juliacn-2021) | 
 | OMEinsum - 满足你对张量运算所有的期待 | [刘金国](https://github.com/GiggleLiuy) || [材料见 day2_liu_OMEinsum](day2_liu_OMEinsum) |
-| 邀请报告：Viral B. Shah | [Viral B. Shah](https://github.com/ViralBShah) | TODO | TODO |
+| 邀请报告： Viral B. Shah - Julia: a fresh approach to computing | [Viral B. Shah](https://github.com/ViralBShah) | TODO | [Slides](day3_viral_Julia.pdf) |
 | Julia与积分微分方程 | 张润发 | TODO | TODO |
 | 用Julia求解微分方程 | [高俊朋](https://github.com/JunpengGao233) || [Repo](https://github.com/JunpengGao233/JuliaConCN2021) |
 | Julia在分数阶科学计算中的应用 | [曲庆宇](https://github.com/ErikQQY) | TODO | [FractionalCalculus.jl](https://github.com/SciFracX/FractionalCalculus.jl), [FractionalDiffEq.jl](https://github.com/SciFracX/FractionalDiffEq.jl), [slide](https://julia-cn-conf2021.vercel.app/1), [PDF](day3_qu_fractional_order.pdf) |
