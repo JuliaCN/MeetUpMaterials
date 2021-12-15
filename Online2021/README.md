@@ -16,7 +16,7 @@
 | 基于 Turing.jl 的概率编程实践 | [徐锴](https://github.com/xukai92) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=13) | [repo](https://github.com/xukai92/juliacn-2021) | 
 | OMEinsum - 满足你对张量运算所有的期待 | [刘金国](https://github.com/GiggleLiuy) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=14) | [材料见 day2_liu_OMEinsum](day2_liu_OMEinsum) |
 | 邀请报告： Viral B. Shah - Julia: a fresh approach to computing | [Viral B. Shah](https://github.com/ViralBShah) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=15) | [Slides](day3_viral_Julia.pdf) |
-| Julia与积分微分方程 | 张润发 | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=16) | TODO |
+| Julia与积分微分方程 | 张润发 | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=16) | [Slides](day3_zhang_diffeq.pptx) |
 | 用Julia求解微分方程 | [高俊朋](https://github.com/JunpengGao233) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=17) | [Repo](https://github.com/JunpengGao233/JuliaConCN2021) |
 | Julia在分数阶科学计算中的应用 | [曲庆宇](https://github.com/ErikQQY) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=18) | [FractionalCalculus.jl](https://github.com/SciFracX/FractionalCalculus.jl), [FractionalDiffEq.jl](https://github.com/SciFracX/FractionalDiffEq.jl), [slide](https://julia-cn-conf2021.vercel.app/1), [PDF](day3_qu_fractional_order.pdf) |
 | Vlasiator.jl: Plasma Model Data Analysis | [周弘扬](https://github.com/henry2004y) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=19) | [Slide](day3_zhou_vlasiator.pdf), [Doc](https://henry2004y.github.io/Vlasiator.jl/dev/) |
