@@ -20,5 +20,5 @@
 | 用Julia求解微分方程 | [高俊朋](https://github.com/JunpengGao233) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=17) | [Repo](https://github.com/JunpengGao233/JuliaConCN2021) |
 | Julia在分数阶科学计算中的应用 | [曲庆宇](https://github.com/ErikQQY) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=18) | [FractionalCalculus.jl](https://github.com/SciFracX/FractionalCalculus.jl), [FractionalDiffEq.jl](https://github.com/SciFracX/FractionalDiffEq.jl), [slide](https://julia-cn-conf2021.vercel.app/1), [PDF](day3_qu_fractional_order.pdf) |
 | Vlasiator.jl: Plasma Model Data Analysis | [周弘扬](https://github.com/henry2004y) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=19) | [Slide](day3_zhou_vlasiator.pdf), [Doc](https://henry2004y.github.io/Vlasiator.jl/dev/) |
-| 幺编译器：在量子硬件上解锁Julia | [罗秀哲](https://github.com/Roger-luo) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=20) | TODO |
+| 幺编译器：在量子硬件上解锁Julia | [罗秀哲](https://github.com/Roger-luo) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=20) | [PDF](day3_roger_yao_compiler.pdf) |
 | Julia 图像处理入门 | [陈久宁](https://github.com/johnnychen94) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=21) | [PPT](day3_chen_juliaImages_intro.pptx) |
