@@ -6,7 +6,7 @@
 | Julia 社区、包注册以及镜像介绍 | [陈久宁](https://github.com/johnnychen94) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=2) | [PPT](day1_chen_pkg_protocol.pdf) |
 | WordCloud.jl - 用julia生成漂亮的词云 | [郭勇智](https://github.com/guo-yong-zhi) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=3) | [PPT](day1_guo_wordcloud.pdf) |
 | Julia机器学习入门教程 | [胡晓曼](https://github.com/huxiaoman7) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=4) | TODO |
-| 以并行和GPU更快一步 | 郭昊轩 | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=6) | [jupyter](day2_guo_threads_and_gpu.ipynb) |
+| 以并行和GPU更快一步 | [郭昊轩](https://github.com/HaoxuanGuo) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=6) | [jupyter](day2_guo_threads_and_gpu.ipynb) |
 | AlphaZero算法介绍以及AlphaZero.jl使用 | [谦谦君子](https://github.com/magicly) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=7) | [markdown](https://github.com/magicly/juliacn-2021-alphazero-share) |
 | 基于可逆计算的稀疏矩阵微分 | [黎婕](https://github.com/jieli-matrix) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=8) | [Blog](https://jieli-matrix.github.io/SparseAD/), [Slide](day2_li_SparseAD.slides.html) |
 | 在Julia中轻松调用C接口 | [曾富楠](https://melonedo.github.io/) | [bilibili](https://www.bilibili.com/video/BV1vY411W7Dw?p=9) | [html](https://melonedo.github.io/reveal.js/index.html), [pdf](day2_zeng_clangjl.pdf) |
